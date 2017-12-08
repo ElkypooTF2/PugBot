@@ -1,0 +1,15 @@
+{
+    "token": "Mzg2NjU1NTA3NDM3NDUzMzIy.DQTFfw.6lyoHxC08JOcrSCcpCvgxW50YbU",
+    "prefix": "!",
+    "voiceRED": "386425051680866304",
+    "voiceBLU": "386425072115777536",
+    "voiceLOBBY": "386425156278681601",
+    "textDEFAULT": "385265478714654721",
+    "textCOMMANDS": "386632197836111873",
+    "rolePUGGER": "385254193574707200",
+    "roleCAPTAIN": "386575535205122048",
+	"roleREDCAPT": "387428166106611712", 
+    "roleBLUCAPT": "387404344854577168",
+    "roleADMIN": "385253934383628289",
+    "connect": "connect 68.232.163.55:27045; password pugoclock"
+	}
