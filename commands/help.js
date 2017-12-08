@@ -1,0 +1,4 @@
+module.exports.run = (bot, msg, args, config, c_info) => {
+    msg.reply("Check your DMs!");
+    msg.member.send(`**:large_orange_diamond:__BOT INFORMATION__:large_orange_diamond:**\n\n\t**Prefix:** ${config.prefix}\n\t**Commands:**\n\n**~~__----------------------------------------__~~**\n\n\n**join** - Allows you to enter PUGs\n\n:small_blue_diamond:**--- CAPTAIN ONLY ---**:small_blue_diamond:\n\n**capme <red|blu>** - Makes you team captain\n\n**pick <tag a user>** - Picks a player for your team\n\n**:small_blue_diamond:--- STAFF ONLY ---:small_blue_diamond:**\n\n**team <red|blu> <tag a user>** - Sets a player's team\n\n**start** - Starts a PUG\n\n**stop** - Stops the PUG`);
+};
